@@ -52,7 +52,7 @@ const Home: NextPage = () => {
     tags: [data?.remainingGenerations > 3 ? "paid" : "free"],
     styles: {
       colors: {
-        primary: "#2563EB", // Primary buttons & links
+        primary: "#f0d55d", // Primary buttons & links
         error: "#d23f4d", // Error messages
         shade100: "#fff", // Standard text
         shade200: "#fffe", // Secondary button text
@@ -144,13 +144,13 @@ const Home: NextPage = () => {
           </Link>
         ) : (
           <a
-            href="https://twitter.com/nutlope/status/1635674124738523139?cxt=HHwWhsCz1ei8irMtAAAA"
+            href="https://twitter.com/batuhannncan"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-700 rounded-2xl py-2 px-4 text-gray-400 text-sm my-6 duration-300 ease-in-out hover:text-gray-300 transition"
           >
             Over{" "}
-            <span className="font-semibold text-gray-200">1 million users</span>{" "}
+            <span className="font-semibold text-gray-200">100+ users</span>{" "}
             have used roomGPT so far
           </a>
         )}

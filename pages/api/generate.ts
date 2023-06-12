@@ -72,7 +72,7 @@ export default async function handler(
         },
         body: JSON.stringify({
           version:
-            "854e8727697a057c525cdb45ab037f64ecca770a1769cc52287c2e56472a247b",
+            "435061a1b5a4c1e26740464bf786efdfa9cb3a3ac488595a2de23e143fdb0117",
           input: {
             image: imageUrl,
             prompt: prompt,
