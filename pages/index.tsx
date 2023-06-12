@@ -25,6 +25,15 @@ const Home: NextPage = () => {
           Don't forget to visit our website!{" "}
           <span className="text-blue-600">Virtuart</span>
         </a>
+        <a
+          href="/arcroom-documentation.pdf"
+          target="_blank"
+          rel="noreferrer"
+          className="border border-gray-700 rounded-lg py-2 px-4 text-gray-400 text-sm mb-5 transition duration-300 ease-in-out hover:text-gray-300"
+        >
+          Step-by step guide to create your imagine room{" "}
+          <span className="text-blue-600">Documentation</span>
+        </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-gray-300 sm:text-7xl">
           Generating dream rooms{" "}
           <span className="relative whitespace-nowrap text-blue-600">
