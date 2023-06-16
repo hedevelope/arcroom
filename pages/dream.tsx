@@ -144,7 +144,7 @@ const Home: NextPage = () => {
           </Link>
         ) : (
           <a
-            href="https://twitter.com/batuhannncan"
+            href="https://twitter.com/BatuhannnCan"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-700 rounded-2xl py-2 px-4 text-gray-400 text-sm my-6 duration-300 ease-in-out hover:text-gray-300 transition"
